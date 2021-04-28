@@ -1,2 +1,2 @@
 # Sentimental-Analysis
-Sentimental analysis on movie reviews using neural network from scratch
+A Deep learning model trained on ANN from scratch (preprocessed using nltk) classifies given movie reviews by analysing sentiments.
